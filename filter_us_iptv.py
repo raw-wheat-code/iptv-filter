@@ -7,8 +7,8 @@ from pathlib import Path
 from typing import List, Dict
 import requests
 
-US_M3U_URL = "https://iptv-org.github.io/iptv/countries/us.m3u"
-OUTPUT_FILE = "my_us_channels.m3u"
+US_M3U_URL = "https://iptv-org.github.io/iptv/index.m3u"
+OUTPUT_FILE = "channels.m3u"
 ALLOWLIST_FILE = "allowlist.txt"     # one rule per line (examples below)
 DENYLIST_FILE  = "denylist.txt"      # optional
 
