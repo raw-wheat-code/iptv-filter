@@ -1,5 +1,6 @@
 # exact attribute matches
 # tvg-name=FOX 5
+#
 tvg=id=ABCNewsLive1.us
 tvg=id=ABCNewsLive2.us
 tvg=id=ABCNewsLive3.us
@@ -12,6 +13,7 @@ tvg=id=ABCNewsLive9.us
 tvg=id=KFSNDT1247News.us
 tvg=id=KHBSDT1.us
 tvg=id=KXXVDT1.us
+tvg=id=WAPTDT1.us
 tvg=id=WAPTDT1.us
 tvg=id=WFTSDT1.us
 tvg=id=WJCLDT1.us
@@ -139,7 +141,9 @@ tvg-id=WYFFDT1.us
 # regex by attribute
 # tvg-name~/^PBS\b/
 # group-title~/News|Weather/
+#
 
 # simple contains anywhere (id/name/display/group)
 # Tubi
 # Amagi
+#

@@ -418,3 +418,4 @@ FodyWeavers.xsd
 *.msp
 channels.m3u
 channels.xml
+allowlist.txt
