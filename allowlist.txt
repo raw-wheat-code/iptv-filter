@@ -1,11 +1,14 @@
 # exact attribute matches
-tvg-id=CBSNewsMiami.us
-tvg-name=FOX 5
+# tvg-name=FOX 5
+tvg-id=70sCinema.us
+tvg-id=AE.us@East
+tvg-id=ABC.us
+
 
 # regex by attribute
-tvg-name~/^PBS\b/
-group-title~/News|Weather/
+# tvg-name~/^PBS\b/
+# group-title~/News|Weather/
 
 # simple contains anywhere (id/name/display/group)
-Tubi
-Amagi
+# Tubi
+# Amagi
